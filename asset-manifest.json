@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/story-time/static/css/main.20012507.css",
+    "main.js": "/story-time/static/js/main.951379b0.js",
+    "static/js/787.69d525a7.chunk.js": "/story-time/static/js/787.69d525a7.chunk.js",
+    "static/media/happyhive.png": "/story-time/static/media/happyhive.0b001cd2f403a231b907.png",
+    "static/media/teaching.png": "/story-time/static/media/teaching.a3cd2fa02fd291faacc5.png",
+    "static/media/busymeadow.png": "/story-time/static/media/busymeadow.0ff8a3c674988c05daf2.png",
+    "static/media/outcasted.png": "/story-time/static/media/outcasted.00d02334183d649ba09a.png",
+    "static/media/hardworking.png": "/story-time/static/media/hardworking.ecd3da2b54fa2c01e489.png",
+    "static/media/end.png": "/story-time/static/media/end.ab166ad65883cd164546.png",
+    "static/media/lazybeelounging.png": "/story-time/static/media/lazybeelounging.f26b3faf1a075d4691ba.png",
+    "static/media/bella.png": "/story-time/static/media/bella.5769c241b3ffeea82e75.png",
+    "index.html": "/story-time/index.html",
+    "main.20012507.css.map": "/story-time/static/css/main.20012507.css.map",
+    "main.951379b0.js.map": "/story-time/static/js/main.951379b0.js.map",
+    "787.69d525a7.chunk.js.map": "/story-time/static/js/787.69d525a7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20012507.css",
+    "static/js/main.951379b0.js"
+  ]
+}

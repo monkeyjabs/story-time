@@ -1,2 +1,2 @@
-# story-time
-Storytime flip book
+# Simple Book flipper
+
